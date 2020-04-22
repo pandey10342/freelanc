@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835377220178",
+    "firebase_url": "https://appetics-c6352.firebaseio.com",
+    "project_id": "appetics-c6352",
+    "storage_bucket": "appetics-c6352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835377220178:android:dcd320d76fb5d3f1e02d8b",
+        "android_client_info": {
+          "package_name": "com.appetics.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835377220178-958jehuejpmm1qv42af8qf4a8b6d0tg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz0LVHy6zVMcH0jgJFY0i-TUlIiJ9QOuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835377220178-958jehuejpmm1qv42af8qf4a8b6d0tg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
